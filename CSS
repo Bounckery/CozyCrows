@@ -352,8 +352,7 @@ li.comment {
 }
 
 #workskin {
-  padding-left: 1.5em;
-  padding-right: 0.5em;
+  padding: 1.5em;
   background-image: url("https://64.media.tumblr.com/c0055d218b860cdcaa8c9c310be37c58/863aa961151bf3c1-42/s1280x1920/eae77dd98bef597698e45188aab7819655a8f71d.png");
   background-position: left;
   background-size: 100%;
